@@ -11,7 +11,7 @@
 </div>
 
 
-<h4 align = "center"> Essas são as linguagens que conheço e já trabalhei (Não profissionalmente, ainda!)</h4>
+<h4 align = "center"> Essas são as ferramentas que conheço e já trabalhei (Não profissionalmente, ainda!)</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" width="58" alt="java logo"  />
