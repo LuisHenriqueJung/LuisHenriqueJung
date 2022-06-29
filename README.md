@@ -3,7 +3,6 @@
 <div>
 <h3 align="left"> Tenho 26 anos e no passado estudei de tudo um pouco, bem, agora estou focado em aprender Java para a Web, mais precisamente com o Spring Framework. Tem sido uma jornada e tanto, sinto que os dias estão ficando muito curtos! 😆 😆 </h3>
 </div>
-###
 
 <br clear="both">
 
