@@ -1,5 +1,6 @@
 
 <h2 align="left">Olá!! 👋 Me chamo Luis Henrique, em breve serei um desenvolvedor Java 🦸‍</h2>
+
 <div>
 <h3 align="left"> Tenho 26 anos e no passado estudei de tudo um pouco, bem, agora estou focado em aprender Java para a Web, mais precisamente com o Spring Framework. Tem sido uma jornada e tanto, sinto que os dias estão ficando muito curtos! 😆 😆 </h3>
 </div>
@@ -10,7 +11,7 @@
   <img height="193" src="https://i.imgur.com/B2XEMpx.gif"  />
 </div>
 
-
+---------------------------------------------------------------------------------------------------------------
 <h4 align = "center"> Essas são as ferramentas que conheço e já trabalhei (Não profissionalmente, ainda!)</h4>
 
 <div align="center">
@@ -26,9 +27,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=LuisHenriqueJung" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&username=LuisHenriqueJung" height="186" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=LuisHenriqueJung" height="150" alt="stats graph" align = "center"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&username=LuisHenriqueJung" height="150" alt="languages graph" align = "center"  />
 </div>
 
 <h4 align = "center" > Entre em contato comigo e vamos conversar!! 🤠</h4>
@@ -48,4 +49,6 @@
   </a>
 </div>
 
+--------------------------------------------------------------------------------------------------------------------
 
+###
