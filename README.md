@@ -1,54 +1,51 @@
 
-<h2 align="left">Olá!! 👋 Me chamo Luis Henrique, e atuo como desenvolvedor web e mobile 🦸‍</h2>
+# Luis Henrique Jung
 
-<div>
+------------------------------------------------------------------------
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=blue&size=36&center=true&vCenter=true&width=900&lines=Full+Stack+Enginier;Flutter+Specialist;AI+Enthusiast;Building+Scalable+Systems"/>
 
-<br clear="both">
+------------------------------------------------------------------------
 
-<div align="center">
-  <img height="193" src="https://i.imgur.com/B2XEMpx.gif"  />
-</div>
+## Full Stack & Mobile Developer \| AI Enthusiast
 
----------------------------------------------------------------------------------------------------------------
-<h3 align = "center"> Essas são as ferramentas que conheço e já trabalhei</h3>
+Full Stack Developer with 4+ years of experience building corporate
+systems across backend, frontend, and mobile platforms.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" width="58" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="41" width="58" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="41" width="58" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" width="58" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" width="58" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" width="58" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" width="58" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" width="58" alt="css3 logo"  />
-</div>
+Strong experience designing scalable REST APIs, CI/CD pipelines, and
+cross-platform applications using Flutter. Currently expanding expertise
+in Artificial Intelligence, Computer Vision, and automation using Python
+and modern LLM frameworks.
 
-###
+------------------------------------------------------------------------
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=LuisHenriqueJung" height="160" alt="stats graph" align = "center"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&username=LuisHenriqueJung" height="160" alt="languages graph" align = "center"  />
-</div>
+## Professional Highlights
 
-<h4 align = "center" > Entre em contato comigo e vamos conversar!! 🤠</h4>
+-   Full software lifecycle experience (architecture → development →
+    testing → deployment)
+-   Strong backend background using Java (Spring Boot), Node.js
+    (NestJS), and Python (FastAPI)
+-   Cross-platform mobile development using Flutter
+-   SQL performance optimization (PostgreSQL & SQL Server)
+-   CI/CD pipelines using GitLab, Docker, and Kubernetes
+-   Applied studies in Machine Learning and Computer Vision
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UChTInKwqdh6nrk85Gemivjg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="luis.cafu2@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-henrique-jung-1b0614119/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/luis.jung.750" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
 
---------------------------------------------------------------------------------------------------------------------
+## Tech Stack
 
-###
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,flutter,python,docker,kubernetes,postgres,git"/>
+
+------------------------------------------------------------------------
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-stats-luishenriquejung7051-23nj9342.leapcell.dev/api?username=LuisHenriqueJung&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisHenriqueJung&theme=dark&border_radius=7.3&short_numbers=true)](https://git.io/streak-stats)
+
+
+------------------------------------------------------------------------
+
+## Contact
+
+##### LinkedIn: https://www.linkedin.com/in/luis-henrique-jung-1b0614119/
+##### Email: jungluishenrique@gmail.com
